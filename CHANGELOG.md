@@ -163,7 +163,7 @@ For a full list, please see https://github.com/nextcloud/talk-android/milestone/
 - Avoid loading conversations screen multiple times after login when multiple accounts are used
 - Fix phone book integration
 - Minor fixes
-
+ 
 ### Changed
 - new UI for Settings screen
 
